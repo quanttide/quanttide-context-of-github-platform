@@ -1,4 +1,4 @@
-# quanttide-context-of-github
+# quanttide-context-of-github-platform
 
 量潮 GitHub 语境——GitHub 适配的上下文背景与关联语境。
 
